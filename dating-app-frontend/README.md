@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 This is very important.
 To start my product, you must read this.md
+Have a good use.
